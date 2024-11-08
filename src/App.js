@@ -8,23 +8,6 @@ import {projectData} from './data/projectData';
 
 function App() {
 
-//   const projectData = {
-//     project1: {
-//       date: "2023",
-//       title: "Project One",
-//       tags: ["React", "Node.js", "MongoDB"],
-//       description: "A brief description of project one",
-//       githubLink: "https://github.com/username/project1",
-//     },
-//     project2: {
-//       date: "2024",
-//       title: "Project Two",
-//       tags: ["Python", "Django", "PostgreSQL"],
-//       description: "A brief description of project two",
-//       githubLink: "https://github.com/username/project2",
-//     },
-//   };
-
   return (
     <main className="mx-auto px-4 md:w-3/4 lg:w-1/2 max-w-[820px] flex flex-col gap-10">
       <section className="flex flex-col md:flex-row items-center py-12 p-8 rounded-[4rem] shadow-md gap-10 bg-[#2a2a2a] relative">
