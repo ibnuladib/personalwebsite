@@ -18,7 +18,7 @@ export const projectData = {
       title: "Course Material Downloader",
       tags: ["Python", "Selenium"],
       description: "Downloads all Notes/Course Materials from aiub portal",
-      githubLink: "",
+      githubLink: "https://github.com/ibnuladib/AIUB-Course-Material-Downloader-Script",
     },
     project4: {
       date: "2024",

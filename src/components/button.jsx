@@ -18,7 +18,7 @@ function Button(props) {
                     console.warn("Invalid link specified");
                 }
             }}
-            className="social-icon border-white border-2 w-36 text-white font-bold py-2 px-4 rounded-full text-xl">
+            className="social-icon border-white border-2 w-36 text-white font-bold py-2 px-4 rounded-full text-lg">
             {props.btnName}
         </button>
     );

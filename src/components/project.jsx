@@ -5,7 +5,7 @@ import React from 'react';
 
 function Project(props) {
   return (
-    <div className='card bg-[#2a2a2a] py-12 p-8 rounded-[4rem] shadow-md mb-6' >
+    <div className='card bg-[#2a2a2a] py-9 p-8 rounded-[4rem] shadow-md mb-6' >
       <h1 className="text-2xl font-bold mb-2">{props.title}</h1>
       <h2 className="text-xl text-gray-300 mb-4">{props.date}</h2>
       <div className="flex flex-wrap gap-2 mb-4">
