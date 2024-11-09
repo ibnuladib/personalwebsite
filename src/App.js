@@ -21,7 +21,7 @@ function App() {
             <h2 className="mb-8 text-5xl md:text-6xl lg:text-6xl font-extrabold bg-gradient-to-r from-pink-500 via-fuchsia-500 to-purple-500 text-transparent bg-clip-text">
               Hi, I'm Adib
             </h2>
-            <p className="text-2xl md:text-2xl font-bold text-white-400">computer science student | wannabe dev</p>
+            <p className="text-2xl md:text-2xl font-bold text-white-400">cs student | wannabe dev</p>
             <div className="lg:ml-16 mt-8 md:mt-12 flex justify-center md:justify-start gap-3">
               {/* <Button btnName="GitHub" />
               <Button btnName="LinkedIn" /> */}
