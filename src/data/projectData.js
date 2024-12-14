@@ -48,5 +48,12 @@ export const projectData = {
       description: "Employee Management Software with CRUD operations and more basic features",
       githubLink: "https://github.com/ibnuladib/ScreenshotDeleter",
     },
+    project8: {
+      date: "2024",
+      title: "volume-control",
+      tags: ["python", "arduino"],
+      description: "Control your computer's volume using an encoder",
+      githubLink: "https://github.com/ibnuladib/volume-control-script",
+    },
   };
   

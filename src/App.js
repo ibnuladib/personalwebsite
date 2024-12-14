@@ -54,6 +54,7 @@ function App() {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <Project {...projectData.project1} />
             <Project {...projectData.project2} />
+            <Project {...projectData.project8} />
             <Project {...projectData.project3} />
             <Project {...projectData.project4} />
             <Project {...projectData.project5} />
