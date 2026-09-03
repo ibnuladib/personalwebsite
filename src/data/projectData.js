@@ -160,4 +160,5 @@ export const projectData = {
       description: "A collaborative project built during the IUT hackathon prelim focusing on making a Real-time electrical monitoring for 15 simulated devices across 3 office rooms, with a live web dashboard, a Discord bot to monitor the devices and send alerts, fastapi backend with AI responses",
       githubLink: "https://github.com/Udoy2/IUT_HACKATHON",
     },
+    },
   };
